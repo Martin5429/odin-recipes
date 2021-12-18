@@ -1,0 +1,19 @@
+* {
+    font-family: cursive;
+}
+
+h1, h3 {
+    background-color: green;
+    color: black;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p, ol, ul {
+    background-color: red;
+    color: white;
+    font-size: 22px;
+}
